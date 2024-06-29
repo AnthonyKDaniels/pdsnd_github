@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+This is just a repository used to practice working with github in different situations.  It was created as a starting learning point, and I will continue to keep it open to work on learning new things
 
 ### Files used
 Include the files used
